@@ -1,5 +1,5 @@
 {
-  "name": "fabrics-client-poc",
+  "name": "fabric-client-poc",
   "version": "1.0.0",
   "description": "Test Fabrics SQL Endpoint connectivity",
   "main": "index.js",
